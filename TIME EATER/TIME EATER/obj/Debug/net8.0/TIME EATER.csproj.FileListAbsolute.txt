@@ -1,0 +1,15 @@
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\bin\Debug\net8.0\TIME EATER.exe
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\bin\Debug\net8.0\TIME EATER.deps.json
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\bin\Debug\net8.0\TIME EATER.runtimeconfig.json
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\bin\Debug\net8.0\TIME EATER.dll
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\bin\Debug\net8.0\TIME EATER.pdb
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\TIME EATER.GeneratedMSBuildEditorConfig.editorconfig
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\TIME EATER.AssemblyInfoInputs.cache
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\TIME EATER.AssemblyInfo.cs
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\TIME EATER.csproj.CoreCompileInputs.cache
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\TIME EATER.sourcelink.json
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\TIME EATER.dll
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\refint\TIME EATER.dll
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\TIME EATER.pdb
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\TIME EATER.genruntimeconfig.cache
+E:\sparta\1. Projects\2CHO\TIME EATER\TIME EATER\obj\Debug\net8.0\ref\TIME EATER.dll

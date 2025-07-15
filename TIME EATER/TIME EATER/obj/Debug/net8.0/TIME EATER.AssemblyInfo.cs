@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TIME EATER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f85b8d4170a2d5706e741d0f86587192350e1df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f16b83b08252c6cb306b8befa356df84da5148")]
 [assembly: System.Reflection.AssemblyProductAttribute("TIME EATER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TIME EATER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\2CHO\\TIME EATER\\",
+  "WorkspaceRootPath": "E:\\sparta\\1. Projects\\2CHO\\TIME EATER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC138BBB-3A22-4B92-8580-E66555B50E06}|TIME EATER\\TIME EATER.csproj|c:\\users\\chralielee\\source\\repos\\csharp\\2cho\\time eater\\time eater\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC138BBB-3A22-4B92-8580-E66555B50E06}|TIME EATER\\TIME EATER.csproj|e:\\sparta\\1. projects\\2cho\\time eater\\time eater\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC138BBB-3A22-4B92-8580-E66555B50E06}|TIME EATER\\TIME EATER.csproj|solutionrelative:time eater\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\2CHO\\TIME EATER\\TIME EATER\\GameManager.cs",
+              "DocumentMoniker": "E:\\sparta\\1. Projects\\2CHO\\TIME EATER\\TIME EATER\\GameManager.cs",
               "RelativeDocumentMoniker": "TIME EATER\\GameManager.cs",
-              "ToolTip": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\2CHO\\TIME EATER\\TIME EATER\\GameManager.cs",
+              "ToolTip": "E:\\sparta\\1. Projects\\2CHO\\TIME EATER\\TIME EATER\\GameManager.cs",
               "RelativeToolTip": "TIME EATER\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T00:47:43.382Z",
               "EditorCaption": ""
