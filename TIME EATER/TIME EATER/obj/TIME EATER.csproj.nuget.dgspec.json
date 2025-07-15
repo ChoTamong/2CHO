@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\sparta\\1. Projects\\2CHO\\TIME EATER\\TIME EATER\\TIME EATER.csproj": {}
+    "C:\\Users\\ChralieLee\\source\\repos\\csharp\\2CHO\\TIME EATER\\TIME EATER\\TIME EATER.csproj": {}
   },
   "projects": {
-    "E:\\sparta\\1. Projects\\2CHO\\TIME EATER\\TIME EATER\\TIME EATER.csproj": {
+    "C:\\Users\\ChralieLee\\source\\repos\\csharp\\2CHO\\TIME EATER\\TIME EATER\\TIME EATER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\sparta\\1. Projects\\2CHO\\TIME EATER\\TIME EATER\\TIME EATER.csproj",
+        "projectUniqueName": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\2CHO\\TIME EATER\\TIME EATER\\TIME EATER.csproj",
         "projectName": "TIME EATER",
-        "projectPath": "E:\\sparta\\1. Projects\\2CHO\\TIME EATER\\TIME EATER\\TIME EATER.csproj",
-        "packagesPath": "C:\\Users\\jeong\\.nuget\\packages\\",
-        "outputPath": "E:\\sparta\\1. Projects\\2CHO\\TIME EATER\\TIME EATER\\obj\\",
+        "projectPath": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\2CHO\\TIME EATER\\TIME EATER\\TIME EATER.csproj",
+        "packagesPath": "C:\\Users\\ChralieLee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\2CHO\\TIME EATER\\TIME EATER\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jeong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ChralieLee\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
